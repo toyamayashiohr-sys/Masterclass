@@ -4,3 +4,9 @@
 4. Interview preparation
    - technical and coding test
    - Soft skills
+
+1. Header
+2. Summary
+3. Technial skills
+4. Projects
+5. Education and language
